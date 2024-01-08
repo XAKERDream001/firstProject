@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main .sec-1 {
+    background-image: url(./img/IMAGE\ \(1\).png);
+    width: 920px;
+    height: 544px;
+    flex-shrink: 0;
+    margin-top: 25px;
+}
